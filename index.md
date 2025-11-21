@@ -10,7 +10,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-##### Esto un H5
+##### A continuacion una lista de tareas:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 ###### Por ultimo el H6
@@ -23,3 +26,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+

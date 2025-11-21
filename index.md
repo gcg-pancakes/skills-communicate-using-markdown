@@ -6,10 +6,12 @@
 ### Esto es un H3
 
 
-#### Esto un H4
+#### Abajo podrás ver una imagen cargada con Markdown
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ##### Esto un H5
 
 
 ###### Por ultimo el H6
+
